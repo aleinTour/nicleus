@@ -1,0 +1,7 @@
+[package]
+name = "nicleus"
+version = "2.5.0"
+edition = "2021"
+
+[dependencies]
+rustyline = "14"

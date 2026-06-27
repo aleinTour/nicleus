@@ -1,0 +1,6 @@
+soma_dataset.json
+sessioni/
+.nicleus_history
+target/
+*.log
+*.tmp
